@@ -1,6 +1,6 @@
 Package: timsr
 Title: Easily Access timsTOF Data
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     c(person(given = "Mateusz Krzysztof",
              family = "Łącki",
@@ -21,10 +21,10 @@ RoxygenNote: 7.1.1
 Depends: R (>= 3.0.0)
 Imports: opentimsr, data.table, methods
 NeedsCompilation: no
-Packaged: 2021-05-03 09:22:02 UTC; matteo
+Packaged: 2021-05-11 16:55:25 UTC; matteo
 Author: Mateusz Krzysztof Łącki [aut, cre, cph]
     (<https://orcid.org/0000-0001-7415-4748>),
   Michał Piotr Startek [aut, cph]
     (<https://orcid.org/0000-0001-5227-3447>)
 Repository: CRAN
-Date/Publication: 2021-05-04 06:30:02 UTC
+Date/Publication: 2021-05-11 17:30:03 UTC
